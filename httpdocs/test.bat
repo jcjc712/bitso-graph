@@ -1,0 +1,1 @@
+start "php get data" php C:\vhosts\bitso\httpdocs\saveData.php
